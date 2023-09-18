@@ -2,7 +2,7 @@
 
 Experimental Procedure:
 ## Download the dataset from the given link:
-* Dataset 2 Source: <[https://archive.ics.uci.edu/ml/datasets/Spambase]>
+* Dataset 2 Source: [https://archive.ics.uci.edu/ml/datasets/Spambase]
 
 Randomly partition each dataset into two parts i.e 80 - 20  sets.
 * For dataset 2, perform classification of the testing set samples using the Naive Bayes Classifier.
